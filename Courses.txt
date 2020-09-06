@@ -1,0 +1,25 @@
+ <!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title>Elizabeth Tanoh | courses</title>
+    <meta charset="UTF-8">
+
+        <h1 class="heading">COURSES</h1>
+        <ul>
+         <li><a
+                    href="https://www.ashesi.edu.gh/academics/programmes/computer-science/management-information-systems-courses.html#Intro to Computing" 
+                    </a></li>
+    
+            <li><a
+            
+                    href="https://www.ashesi.edu.gh/academics/programmes/computer-science/management-information-systems-courses.html
+                    Computer Programming for CS</a></li>
+            <li><a
+              
+            <li><a
+                    href="https://www.ashesi.edu.gh/academics/programmes/computer-science/management-information-systems-courses.html#WebTech"
+                    Web Technologies</a></li>
+        </ul>
+    
+
